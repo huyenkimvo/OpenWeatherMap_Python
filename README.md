@@ -74,8 +74,8 @@
 1. Make sure existing python the same as version in Pipfile file.
 2. Use [Pipenv](https://pipenv.pypa.io) to set up a virtual environment to manage packages
    - Run ***py -m pip install pipenv*** from the command line in the project's root directory
-   - At the left corner: select virtual env that created. Example: Python 3.9.4 64-bit ('WeatherMap-dEG8rr8W).
    - Run ***py -m pipenv install*** from the command line
+   - At the left corner: select virtual env that created. Example: Python 3.9.4 64-bit ('WeatherMap-dEG8rr8W).
 
 ## Running Tests
 
