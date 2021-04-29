@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pytest = "*"
+pytest-bdd = "*"
+selenium = "*"
+webdriver-manager = "*"
+pytest-xdist = "*"
+pytest-html = "*"
+pylint = "*"
+pytest-pylint = "*"
+requests = "*"
+pandas = "*"
+
+[dev-packages]
+autopep8 = "*"
+
+[requires]
+python_version = "3.9.4"

@@ -1,0 +1,5 @@
+{
+    "Browser": "chrome",
+    "headless": false,
+    "appURL": "https://openweathermap.org/"
+}
